@@ -6,4 +6,6 @@ The assignment specification is in the **assignment** directory.
 
 All source code, including one pre-compiled library, is in the **src** directory.
 
-The **SampleProgram** directory contains a sample version of the "final product" students need to build. (Please contact me if you are an instructor and want access to the source code for the completed project.) 
+The **SampleProgram** directory contains a sample version of the "final product" students need to build.
+
+(If you want access to the full implementation/solution, please contact me. I am happy to share it with anyone who can give reasonable assurance they are an instructor or otherwise are not helping someone cheat on an assignment.)
